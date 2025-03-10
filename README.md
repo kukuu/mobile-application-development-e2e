@@ -1,4 +1,4 @@
-# End-to-end Mobile Application Development
+# End-to-end: Mobile Application Development
 
 _End to end Blueprint for a Mobile application development._
 
