@@ -144,73 +144,90 @@ i. Device Compatibility:
 a. Test on various devices (e.g., iPhones, iPads, Android phones, tablets).
 
 ## Build and Release
-For iOS:
-Archive the App:
 
-Use Xcode to create an .ipa file by selecting Product > Archive.
+- For iOS:
 
-Upload to App Store Connect:
+i. Archive the App:
 
-Use Xcode or Transporter to upload the build to App Store Connect.
+a. Use Xcode to create an .ipa file by selecting Product > Archive.
 
-App Store Review:
+b. Upload to App Store Connect:
 
-Submit the app for review, ensuring it meets Apple’s App Store Guidelines.
+c. Use Xcode or Transporter to upload the build to App Store Connect.
 
-For Android:
-Build the APK/AAB:
+d. App Store Review:
 
-Generate a signed APK or AAB (Android App Bundle) using Android Studio.
+e. Submit the app for review, ensuring it meets Apple’s App Store Guidelines.
 
-Upload to Google Play Console:
+- For Android:
 
-Upload the build to Google Play Console and fill in release details (e.g., release notes, distribution channels).
+i. Build the APK/AAB:
 
-Internal/Alpha/Beta Testing:
+a. Generate a signed APK or AAB (Android App Bundle) using Android Studio.
 
-Use Google Play’s internal testing or beta testing features to test the app with a small group of users.
+b. Upload to Google Play Console:
+
+c. Upload the build to Google Play Console and fill in release details (e.g., release notes, distribution channels).
+
+- Internal/Alpha/Beta Testing:
+
+a. Use Google Play’s internal testing or beta testing features to test the app with a small group of users.
 
 ## Post-Deployment Monitoring
-Crash Reporting:
-Use tools like Firebase Crashlytics, Sentry, or Bugsnag to monitor crashes and errors in real time.
 
-Analytics:
-Integrate analytics tools like Google Analytics, Mixpanel, or Amplitude to track user behavior and app performance.
+i. Crash Reporting:
 
-User Feedback:
-Collect user feedback through in-app surveys, reviews, or support channels to identify areas for improvement.
+a. Use tools like Firebase Crashlytics, Sentry, or Bugsnag to monitor crashes and errors in real time.
 
-Performance Monitoring:
-Use tools like Firebase Performance Monitoring or New Relic to track app performance metrics (e.g., load times, network requests).
+- Analytics:
+
+a. Integrate analytics tools like Google Analytics, Mixpanel, or Amplitude to track user behavior and app performance.
+
+- User Feedback:
+
+i. Collect user feedback through in-app surveys, reviews, or support channels to identify areas for improvement.
+
+- Performance Monitoring:
+
+i. Use tools like Firebase Performance Monitoring or New Relic to track app performance metrics (e.g., load times, network requests).
 
 ## Best Practices
-Code Quality:
-Follow SOLID principles and clean code practices.
 
-Use linters and formatters (e.g., ESLint, Prettier) to maintain code consistency.
+i. Code Quality:
 
-Continuous Integration/Continuous Deployment (CI/CD):
-Automate build, test, and deployment processes using tools like GitHub Actions, CircleCI, or Bitrise.
+a. Follow SOLID principles and clean code practices.
 
-Security:
-Use secure coding practices (e.g., input validation, secure storage).
+b. Use linters and formatters (e.g., ESLint, Prettier) to maintain code consistency.
 
-Regularly update dependencies to patch vulnerabilities.
+ii. Continuous Integration/Continuous Deployment (CI/CD):
 
-Documentation:
-Maintain thorough documentation for code, APIs, and deployment processes.
+a. Automate build, test, and deployment processes using tools like GitHub Actions, CircleCI, or Bitrise.
 
-Use tools like Swagger for API documentation.
+- Security:
 
-Localization:
-Support multiple languages and regions to cater to a global audience.
+i. Use secure coding practices (e.g., input validation, secure storage).
 
-Use tools like i18next or Localize for localization.
+ii. Regularly update dependencies to patch vulnerabilities.
 
-Accessibility:
-Ensure the app is accessible to users with disabilities (e.g., screen reader support, high contrast mode).
+- Documentation:
 
-Regular Updates:
-Release regular updates to fix bugs, improve performance, and add new features.
+i. Maintain thorough documentation for code, APIs, and deployment processes.
 
-Monitor user feedback and analytics to prioritize updates.
+ii. Use tools like Swagger for API documentation.
+
+i. Localization:
+
+a. Support multiple languages and regions to cater to a global audience.
+
+b. Use tools like i18next or Localize for localization.
+
+- Accessibility:
+
+i. Ensure the app is accessible to users with disabilities (e.g., screen reader support, high contrast mode).
+
+
+- Regular Updates:
+
+i. Release regular updates to fix bugs, improve performance, and add new features.
+
+ii. Monitor user feedback and analytics to prioritize updates.
