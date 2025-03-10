@@ -1,4 +1,4 @@
- # Tests and Best practices:
+ # QA and Best practices:
  
  ## Deployment of Mobile App to iOS and Android
 
