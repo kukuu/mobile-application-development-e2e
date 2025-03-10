@@ -1,4 +1,4 @@
- # Tests and Best practices for enabling deployment of Mobile App to iOS and Android_
+ # Tests and Best practices: Deployment of Mobile App to iOS and Android
 
 THIS IS A BLUEPRINT.
 
