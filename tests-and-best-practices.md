@@ -1,8 +1,8 @@
- # Procedures: 
- 
-_Tests and Best practices for enabling deployment of Mobile App to iOS and Android_
+ #Tests and Best practices for enabling deployment of Mobile App to iOS and Android_
 
 THIS IS A BLUEPRINT.
+
+_Procedures_
 
 Deploying a mobile app to iOS and Android requires careful planning, rigorous testing, and adherence to best practices, ensuring the app is stable, secure, and ready for users. Below is a thorough procedure for enabling deployment, including testing and best practices:
 
