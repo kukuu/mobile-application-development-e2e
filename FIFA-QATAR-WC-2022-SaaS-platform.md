@@ -5,17 +5,17 @@ As Head of Engineering at Pushologies, I served as the Technical Authority in dr
 
 - Scalability and Performance:
 
-Utilized AWS serverless computing services like AWS Lambda and API Gateway to manage unpredictable traffic spikes during the tournament.
+Utilized AWS serverless computing services like **AWS Lambda **and **API Gateway** to manage unpredictable traffic spikes during the tournament.
 
-Implemented Amazon DynamoDB as the primary database, optimized for high read/write throughput and low latency.
+Implemented **Amazon DynamoDB** as the primary database, optimized for high read/write throughput and low latency.
 
-Employed Amazon ElastiCache (Redis) for caching, reducing database load and improving response times.
+Employed **Amazon ElastiCache (Redis)** for caching, reducing database load and improving response times.
 
 - Security and Compliance:
 
-Enforced strict access controls using AWS IAM and Amazon Cognito for secure user authentication.
+Enforced strict access controls using **AWS IAM** and **Amazon Cognito** for secure user authentication.
 
-Applied data encryption at rest (AWS KMS) and in transit (SSL/TLS) to ensure compliance with global data protection standards.
+Applied data encryption at **rest (AWS KMS)** and in **transit (SSL/TLS)** to ensure compliance with global data protection standards.
 
 Optimized database performance through sharding and partitioning strategies to prevent bottlenecks.
 
