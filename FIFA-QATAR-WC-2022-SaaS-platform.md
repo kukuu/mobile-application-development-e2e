@@ -5,7 +5,7 @@ As Head of Engineering at Pushologies, I served as the Technical Authority in dr
 
 - Scalability and Performance:
 
-Utilized AWS serverless computing services like **AWS Lambda **and **API Gateway** to manage unpredictable traffic spikes during the tournament.
+Utilized AWS serverless computing services like **AWS Lambda** and **API Gateway** to manage unpredictable traffic spikes during the tournament.
 
 Implemented **Amazon DynamoDB** as the primary database, optimized for high read/write throughput and low latency.
 
